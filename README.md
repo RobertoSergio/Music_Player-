@@ -1,1 +1,1 @@
-# Projeto de Music Player em java e javafx
+# Projeto de Music Player usando java e javafx
