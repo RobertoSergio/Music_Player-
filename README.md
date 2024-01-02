@@ -1,1 +1,1 @@
-# Projeto de Music PLayer em java
+# Projeto de Music Player em java
